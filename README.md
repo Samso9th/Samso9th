@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Samsonite.<br>
-        IBM Certified Full Stack Web3 DeV and Applied AI Expert.<br>
+        IBM Certified Full Stack Web3 Dev and Applied AI Expert.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/samso9th/">
